@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """isolezwelesixhosa_scrap_links.ipynb
+Code for scrapping news text from https://www.isolezwelesixhosa.co.za
 
 Author: Jesujoba Alabi
 """
