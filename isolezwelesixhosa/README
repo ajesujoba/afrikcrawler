@@ -1,1 +1,5 @@
 The python code for scrapping https://www.isolezwelesixhosa.co.za
+You can use either the jupyter notebook or the python file. The code is divided into two sections:
+1. Crawling of links 
+2. Scraping of texts from the new articles given by the the links from 1. 
+The Title, Date and the new content are all scraped and saved in a CSV file. 
